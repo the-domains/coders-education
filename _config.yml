@@ -1,0 +1,14 @@
+layout_spectrum: 0.9576302932109684
+typography_spectrum: 0.20801465190015733
+color:
+  brandStrength: 0.6443275050260127
+  lightness: 0.10404741857200861
+  saturation: 0.9179235175251961
+  rhythmicContrast: 0.17982823308557272
+  brandColors:
+    - '#58595B'
+    - '#F58220'
+    - '#252122'
+    - '#F9CEAA'
+    - '#008000'
+name: Coders Education
